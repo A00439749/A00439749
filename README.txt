@@ -1,2 +1,5 @@
-Hi there, my name is Prashant Bana and I'm currently enrolled in a full-time graduate program (A00439749) at Saint Mary's University, Nova Scotia. I graduated in computer science and technology from SRM University in 2018. During the last semester of my studies, I landed an job as a full stack PHP developer at a used-car startup based out of New Delhi. Later I switched to a more data centric role in order to get a better exposure of the industry. During my tenure as a Data Engineer, i got to work on creation and maintenance of Python based data processing platforms and complex databases.
-I can be reached at: Prashant.Bana@smu.ca
+I have parsed all the files and created a Output.csv file in Output folder containing good rows only.
+Throw exception for EMPTRY STRINGS and "" STRINGS
+I have counted number of Invalid rows not number of missing fields.
+I have consider all CSV files for a given directory and its respective subdirectories.
+I have added a date column and header in Output.csv.

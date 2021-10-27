@@ -1,0 +1,5 @@
+
+
+Skipped Rows :81832
+Valid Rows :201075
+Total time of exection(milliseconds) :195788
